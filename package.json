@@ -1,0 +1,24 @@
+{
+  "name": "nuve",
+  "version": "0.1.0",
+  "description": "licode nuve api (unofficial)",
+  "main": "nuve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KayvanMazaheri/nuve.git"
+  },
+  "keywords": [
+    "nuve",
+    "licode",
+    "api"
+  ],
+  "author": "Kayvan Mazaheri <KayvanMazaheri@GMail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KayvanMazaheri/nuve/issues"
+  },
+  "homepage": "https://github.com/KayvanMazaheri/nuve#readme"
+}
